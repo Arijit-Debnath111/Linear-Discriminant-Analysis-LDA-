@@ -12,5 +12,10 @@ The process is as-
 #weighted average is precision of all classes merge together
 #weighted average = (TP of class 0 + TP of class 1)/(total number of class 0 + total number of class 1) 
 
+#F1-score is a measure of a model's accuracy on a dataset
+#a good F1 score means that you have low false positives and low false negatives, 
+#Accuracy is used when the True Positives and True negatives are more important while 
+#F1-score is used when the False Negatives and False Positives are crucial.
+#Support is the number of actual occurrences of the class in the specified dataset.
 
 
